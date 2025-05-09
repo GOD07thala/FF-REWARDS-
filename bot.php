@@ -1,9 +1,9 @@
 <?php
 
-$token = "YOUR_BOT_TOKEN";
+$token = "8189942415:AAFyo5r3fF22oWTJFsoD40rlFc3oiV_di0Q";
 $data = [
     'text' => $msg,
-    'chat_id' => 'YOUR_CHAT_ID'
+    'chat_id' => '6722166633
 ];
 
 ?>
